@@ -1,6 +1,10 @@
 ## Module-7-Challenge
 Third-Party APIs: Daily Planner App
-# Repository url
+# Repository URL
+
+
+# Deplyoment URL
+https://nilamppatil.github.io/Module-7-Challenge/
 
 
 # User Story
